@@ -1,0 +1,10 @@
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csprojAssemblyReference.cache
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.Properties.Resources.resources
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csproj.GenerateResource.cache
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csproj.CoreCompileInputs.cache
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.exe.config
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.exe
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.pdb
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.exe
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.pdb
+D:\Andrés Miranda Arias\Documents\Analisis de Algoritmos\Tarea Programada 2\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.Form1.resources
